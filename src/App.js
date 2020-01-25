@@ -6,8 +6,11 @@ import facebook from "./pictures.png"
 import "./style.css"
 
 
+
 function App() {
-  <div NameClasse>
+  <div NameClass="comp">
+
+    rfgtgrfed
 <img src={billgates}/>
 
 
